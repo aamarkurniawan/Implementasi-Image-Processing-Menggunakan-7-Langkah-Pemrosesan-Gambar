@@ -37,7 +37,7 @@ Proyek ini bertujuan untuk mengimplementasikan **7 langkah dasar pemrosesan gamb
 ## Cara Menjalankan  
 1. Clone repository ini ke lokal:  
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/username/nama-repo.git](https://github.com/aamarkurniawan/Implementasi-Image-Processing-Menggunakan-7-Langkah-Pemrosesan-Gambar
    cd nama-repo
 2. **Jalankan notebook di Google Colab atau lokal menggunakan Jupyter Notebook.**  
    - Jika menggunakan **Google Colab**, upload file notebook dan gambar contoh ke Colab.
